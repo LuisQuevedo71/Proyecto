@@ -1,0 +1,80 @@
+.body {
+    margin: 0;
+}
+.contenedor {
+    margin: 0 auto;
+    background-color:#f9fbfd;
+    ;
+    padding: o;
+
+    display: flex;
+}
+.primero {
+    background-attachment: fixed;
+    background-position: ;
+    flex-basis: 15%;
+    margin-right: 2rem;
+}
+
+.segundo {
+    flex-grow: 1;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar {
+    display: flex;
+    padding: 0;
+    background-color: #ffffff
+
+ }
+ 
+ .navbar-child {
+    flex-basis: 49%;
+     margin: 0 ;
+     padding: .5rem 1rem;
+
+ }
+
+ .nav {
+     justify-content: flex-end;
+ }
+
+ .container-body {
+     display: flex;
+
+     
+ }
+
+ .div1 {
+     flex-basis: 10%;
+     height: 100vh;
+     padding: 1rem;
+     background-color: #1877f2;
+ }
+
+ .div2 {
+    flex-grow: 1;
+}
